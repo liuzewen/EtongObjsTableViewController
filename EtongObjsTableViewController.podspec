@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "EtongObjsTableViewController"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "EtongObjsTableViewController is used on iOS."
   s.description      = <<-DESC
                        It is a marquee view used on iOS, which implement by Objective-C.
